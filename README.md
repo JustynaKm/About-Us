@@ -1,21 +1,33 @@
-# About-Us
-Fast Data Consulting - my services for Data Strategy and Reporting Automation for for Wealth Managers, Insurance Companies and Financial and Credit Institutions
+## Data Strategy & Reporting Automation for the Financial Sector
 
-I specialize in designing and implementing data warehouses, data governance frameworks, and automated reporting systems tailored to the needs of banks and financial institutions.
+I provide data strategy, architecture, and reporting automation services for wealth managers, insurance companies, and financial and credit institutions.
 
-My focus areas include:
-1. Reliable Data Architecture: Built with data governance guidlines provided by BCBS 239 regulation.
-2. Regulatory & ESG Reporting: structured, automated and functional reporting for compliance and transparency. See my Repository for a Case Study I did
-3. Resilient Systems: Implementing standardized data governance, quality checks, and enterprise data models
+With over a decade of experience in financial data systems, I specialize in designing and implementing:
 
+Data Warehouses tailored to complex regulatory environments
 
-I am a specialist in data architecture, BCBS 239 compliance, and reporting automation based in Frankfurt am Main, Germany. I support financial institutions with tailored solutions in ETL, data warehousing, ESG reporting, and much more. Your benefits: efficient systems for regulatory compliance and data quality. Contact me at justyna.kmiecik@fastdataconsulting.com for a consultation.
+Data Governance Frameworks aligned with BCBS 239 principles
 
-TThe tools I use are: 
-PL / SQL - Oracle, 
-T-SQL, 
-Power Query
-Power BI
-Tableau
-SAP Business Objects
-Jira
+Automated Reporting Systems for regulatory and ESG reporting
+
+##Focus Areas
+
+Reliable Data Architecture: Built on strong data governance and compliant with BCBS 239 guidelines.
+
+Regulatory & ESG Reporting: Structured, automated, and transparent reporting solutions that support compliance and sustainability goals. (See my repository for a case study.)
+
+Resilient Systems: Standardized data governance, automated quality checks, and enterprise-level data models for consistency and scalability.
+
+##About Me
+
+I’m a Data Architecture and Reporting Automation Specialist based in Frankfurt am Main, Germany.
+I support financial institutions in optimizing their data ecosystems — from ETL pipelines and data warehousing to ESG and regulatory reporting automation.
+
+💡 Your benefit: Efficient, compliant, and future-proof data systems that turn complexity into clarity.
+
+📩 Contact: justina.kmiecik@fastdataconsulting.com
+
+##Tech Stack
+
+Languages & Tools:
+PL/SQL (Oracle) · T-SQL · Power Query · Power BI · Tableau · SAP BusinessObjects · Jira · JSON / XML File Testing · Azure Dev-Ops · Informatica · Camunda BPMN 
